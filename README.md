@@ -1,1 +1,1 @@
-# Euler Project solutions done in JS for The odin Project.
+# Euler Project solutions done in JavaScript for The odin Project.
